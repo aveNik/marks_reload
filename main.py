@@ -13,7 +13,7 @@ def main():
 
     # <1
     if m<1:
-      level="wtf? Your level is sщo low that I can't even deduce this value!"
+      level="wtf? Your level is so low that I can't even deduce this value!"
 
     #1, 2, 3
     elif m<=3 and m>0:
